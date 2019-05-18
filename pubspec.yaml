@@ -1,8 +1,8 @@
 name: osm
 description: A flutter package, helps you to integrate Open Street Map within your flutter app.
 version: 0.0.1
-author:
-homepage:
+author: Anjan Roy<anjanroy@yandex.com>
+homepage: https://github.com/itzmeanjan/osm
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

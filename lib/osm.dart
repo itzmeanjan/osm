@@ -1,7 +1,13 @@
 library osm;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
+import 'package:flutter/material.dart';
+
+class OSM extends StatefulWidget {
+  @override
+  _OSMState createState() => _OSMState();
+}
+
+class _OSMState extends State<OSM> {
+  @override
+  Widget build(BuildContext context) => Container();
 }
